@@ -1,0 +1,15 @@
+a="Kritika Arora"
+print(a)
+print('type of a', type (a))
+print(len(a))
+print(a[5])
+print(a[-7])
+print(a[1:7])
+print(a[0:])
+print(a[:11])
+print(a[::-2])
+print(a.upper())
+print(a.lower())
+print(a.title())
+print(a.capitalize())
+
