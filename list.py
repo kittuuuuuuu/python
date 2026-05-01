@@ -1,0 +1,9 @@
+empty_list=[]
+print(empty_list)
+numbers=[1,4,8,3]
+print(numbers)
+triples=[1,5,9]*3
+print(triples)
+a=[100,300,500,700,900]
+a=a[::-1]
+print(a)
