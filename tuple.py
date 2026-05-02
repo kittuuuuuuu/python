@@ -1,0 +1,8 @@
+tuplex=("kritika","seema",77.0,65)
+print(tuplex)
+tuplex=(30,67,9,8,7.7)
+print(tuplex)
+tuplex=tuplex+(7,)
+print(tuplex)
+tuple1=(80,90,70,80,80)
+print(tuple1.count(80))
