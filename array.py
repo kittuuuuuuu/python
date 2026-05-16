@@ -1,0 +1,10 @@
+import array as kritika
+a=kritika.array("i",[1,2,3,3,4,4,5])
+print(a)
+print(a.count(3))
+a.reverse()
+print(a)
+a.insert(3,6)
+print(a)
+a.append(8)
+print(a)
